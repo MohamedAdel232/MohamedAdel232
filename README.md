@@ -4,29 +4,15 @@ I'm a **Junior Software Testing Engineer** passionate about delivering high-qual
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,postman,jenkins,git,github,linux,mysql,c,cpp,eclipse,intellij,make)](https://skillicons.dev)
 
-- **Automation Testing**: Selenium WebDriver, Appium, TestNG, Robot Framework
-- **API Testing**: Postman, Newman, REST API
-- **Manual Testing**: Test case design, Bug reporting
-- **Programming Languages**: Java, C, C++, Bash Scripting
-- **Performance Testing**: JMeter
-- **CI/CD Tools**: Jenkins
-- **Mobile Testing**: Android/iOS automation
-- **Operating Systems**: FreeRTOS, OSEK/VDX OS
-- **Build Tools**: Maven, Makefile
-- **Agile Methodologies**: Scrum, Kanban
+![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=embedded-systems&logoColor=white)
 
----
-
-## 🧰 Tools & Technologies
-
-- **Version Control**: Git, GitHub
-- **Test Management**: Jira, Zephyr Scale
-- **IDEs**: IntelliJ IDEA, Eclipse, VS Code
-- **Reporting**: Allure, TestNG Reports
-- **Project Management**: Trello
-- **Office Tools**: Microsoft Office Suite
 
 ---
 
