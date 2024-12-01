@@ -18,10 +18,25 @@ I'm a **Junior Software Testing Engineer** passionate about delivering high-qual
 
 ## 🚀 Projects
 
-- **Calculator Mobile App Automation**: Automated login, calculations, history, and delete functionality using Appium and Robot Framework.
-- **nopCommerce Website Automation**: Automated test cases for login, registration, account management, and checkout using Selenium, Java, and TestNG with POM.
-- **Trello API Testing**: Tested Trello REST APIs with Postman, including automated collections.
-- **Graduation Project (ADAS System)**: Developed an integrated Advanced Driver Assistance System (ADAS) to enhance vehicle safety using mobile app control.
+- Automation Exercise Website Automation Testing Project
+Designed with POM Pattern.
+Implemented Selenium WebDriver for test case execution.
+Utilized Java in the test script with TestNG as the framework.
+Using Data Driven to read from Properties File, JSON File and XML.
+Reporting Using Allure.
+Build on Jenkins Integrated with GitHub, Maven and TestNG.
+- API Testing with Postman and Rest Assured
+Executed manual API testing with Postman and automated API testing using Rest Assured framework. Developed POJO classes for serialization/deserialization and integrated Cucumber for BDD-style API testing.
+- Desktop Automation using Appium Windows Driver
+Developed automation scripts for desktop calculator application with Appium Windows Driver, TestNG, Allure reports, and POM for maintainability.
+- Mobile Automation using Appium
+Automated mobile app testing with Appium, TestNG, Allure reports, and POM for reusable code and efficient test management.
+- Website Automation using BDD with Cucumber
+Automated website tests with Selenium and Cucumber for BDD, using JUnit for execution and HTML reports for test results.
+- Guru99 Banking Manual Testing Project
+Review SRS Document, Test-case Writing and Bug Reporting.
+- Graduation Project (Integrated ADAS System)
+An integrated ADAS system that aims to enhance safety, improve driving experience, and significantly reduce the likelihood of accidents caused by human error. Controlled by a mobile application.
 
 ---
 
