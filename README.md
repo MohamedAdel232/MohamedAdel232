@@ -4,7 +4,7 @@ I'm a **Junior Software Testing Engineer** passionate about delivering high-qual
 ---
 
 ## 🛠️ Technical Skills & Tools  
-[![My Skills](https://skillicons.dev/icons?i=java,js,selenium,postman,jenkins,git,github,linux,mysql,c,cpp,eclipse,clion,arduino,cypress,maven)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,js,selenium,postman,jenkins,git,github,linux,mysql,c,cpp,eclipse,clion,cypress,maven)](https://skillicons.dev)  
 ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white) ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-0072C6?style=for-the-badge&logo=rest-assured&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white) ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=embedded-systems&logoColor=white)
 
 
