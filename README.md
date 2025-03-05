@@ -45,4 +45,4 @@ An integrated ADAS system that aims to enhance safety, improve driving experienc
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Mohamed Adel](https://www.linkedin.com/in/mohamedadel232)
+- **LinkedIn**: [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-540770247/)
